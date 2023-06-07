@@ -1,5 +1,10 @@
 # Fugir de reuniões 
 
+### Tutorial (Brazilian Portuguese)
+
+[![YT](https://i.ytimg.com/vi/RYq4wPz83vc/maxresdefault.jpg)](https://www.youtube.com/watch?v=RYq4wPz83vc)
+[https://www.youtube.com/watch?v=RYq4wPz83vc]()
+
 Você já se viu preso em uma reunião online entediante e interminável? Bem, nós temos a solução perfeita para você! Apresentamos o método revolucionário de fuga de reuniões online. Com apenas um simples atalho de teclado e um pouco de criatividade, você estará livre em segundos!
 
 Neste vídeo, mostraremos como escapar das reuniões chatas utilizando um truque de vídeo. Basta executar nosso código em Python e preparar seu vídeo fake incrível de apenas alguns segundos. Com um simples pressionar de teclas 'Ctrl+Alt+F', o seu vídeo verdadeiro entrará em ação, como mágica! Assim que a sua participação for necessária novamente, pressione 'Ctrl+Alt+F' mais uma vez e o vídeo fake será retomado.
