@@ -15,6 +15,8 @@ Prepare-se para dar boas risadas e impressionar seus amigos com essa tática inf
 
 Então, não perca tempo! Assista a este vídeo divertido e descubra como tornar as suas reuniões online muito mais emocionantes (ou menos presentes). Fuja para a liberdade virtual com estilo, tudo isso graças ao poder do código e um pouco de imaginação. Não se esqueça de compartilhar esse truque com seus amigos e colegas de trabalho. Divirta-se!"
 
+Código: https://github.com/hansalemaos/fugir_de_reunioes/blob/main/code.py
+
 ## Software necessário 
 (tem um error no vídeo, não é cv2, mas sim opencv-python!):
 
