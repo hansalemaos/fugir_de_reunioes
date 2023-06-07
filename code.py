@@ -1,4 +1,4 @@
-# pip install ffmpeg-stream-to-numpy keyboard cv2obs cv2 kthread-sleep
+# pip install ffmpeg-stream-to-numpy keyboard cv2obs opencv-python kthread-sleep
 from ffmpeg_stream_to_numpy import NumpyVideo
 import keyboard, cv2
 from cv2obs.cv2obscam import start_cv2obs, get_index_of_working_cameras
