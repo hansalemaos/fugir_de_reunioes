@@ -18,7 +18,7 @@ Então, não perca tempo! Assista a este vídeo divertido e descubra como tornar
 Código: https://github.com/hansalemaos/fugir_de_reunioes/blob/main/code.py
 
 ## Software necessário 
-(tem um error no vídeo, não é cv2, mas sim opencv-python!):
+(tem um error no vídeo, não é cv2, mas, sim, opencv-python!):
 
 pip install ffmpeg-stream-to-numpy keyboard cv2obs opencv-python kthread-sleep   
 
