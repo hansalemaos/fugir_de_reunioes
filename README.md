@@ -16,7 +16,7 @@ Então, não perca tempo! Assista a este vídeo divertido e descubra como tornar
 pip install ffmpeg-stream-to-numpy keyboard cv2obs opencv-python kthread-sleep   
 
 https://github.com/obsproject/obs-studio
-
+https://www.gyan.dev/ffmpeg/builds/
 
 ## Software optional:
 
